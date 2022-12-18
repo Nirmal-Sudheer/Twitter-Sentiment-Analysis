@@ -62,6 +62,8 @@ elif polarity<20:
 
 elif polarity==20:
         print(f'The tweet is overall neutral with a polarity of {polarity}')
+        
+        #Due to most words being considered positive threshold is increased to 20 
 
 
 print(f'Amount of  positive tweets: {positive}')
