@@ -1,2 +1,2 @@
 # Twitter-Sentiment-Analysis
-Sentiment analysis of tweets from twitter  using natural language processing 
+Sentiment analysis (or opinion mining) is a natural language processing (NLP) technique used to determine whether data is positive, negative or neutral. Sentiment analysis is often performed on textual data to help businesses monitor brand and product sentiment in customer feedback, and understand customer needs.Here we are using Sentiment Analysis to find out what the sentiment for a given search term  for a twitter post.
